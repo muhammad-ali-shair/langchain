@@ -1,0 +1,83 @@
+{
+  "summary": "Full-stack web developer with experience in PHP, Laravel, MySQL, and JavaScript.",
+  "email": "m.alishair666@gmail.com",
+  "name": "Muhammad Ali Shair",
+  "phone": "+923497719519",
+  "address": "Kohinoor City, Faisalabad",
+  "skills": [
+    "Programming",
+    "JavaScript",
+    "TypeScript",
+    "PHP"
+  ],
+  "areaOfInterests": [
+    "Web development",
+    "Front-end development",
+    "Backend development"
+  ],
+  "experience": [
+    {
+      "companyName": "SoftoMarket",
+      "location": "Gojra",
+      "date": "JAN 2022 - OCT 2023",
+      "role": "Full-stack developer"
+    },
+    {
+      "companyName": "Netixsol",
+      "location": "Faisalabad",
+      "date": "OCT 2023 - PRESENT",
+      "role": "Full-stack developer"
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor of Science in Computer Sciences",
+      "institute": "GC University, Faisalabad",
+      "date": "Batch 2016 - 2018"
+    }
+  ],
+  "projects": [
+    {
+      "name": "LeapNetwork",
+      "technologies": [
+        "React.js",
+        "Next.js",
+        "Node.js",
+        "Electron.js"
+      ],
+      "description": "A web-3 trading platform"
+    },
+    {
+      "name": "LeapBeta",
+      "technologies": [
+        "React.js",
+        "Next.js",
+        "Node.js",
+        "MongoDB"
+      ],
+      "description": "A web-3 beta testing platform"
+    },
+    {
+      "name": "LeapSwap",
+      "technologies": [
+        "React.js",
+        "Next.js",
+        "Node.js",
+        "Electron.js"
+      ],
+      "description": "A web-3 swap trading platform"
+    }
+  ],
+  "certificatesAndCourses": [
+    {
+      "title": "Certificate in Web Development",
+      "institute": "aos",
+      "date": "JULY 2021"
+    },
+    {
+      "title": "Research and Competitor Analysis in SEO",
+      "institute": "Aspire College FSD",
+      "date": "JULY 2021"
+    }
+  ]
+}
